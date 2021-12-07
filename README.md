@@ -3,12 +3,12 @@ Uploads local files to discord channels. Modified version of (https://github.com
 
 ## Installation Instructions
 
-Go 1.6:
+GO 1.6:
 ```bash
 ▶ go get github.com/vermsec/discordfile
 ```
 
-Go 1.7:
+GO 1.7:
 ```bash
 ▶ go install github.com/vermsec/discordfile@latest
 ```
